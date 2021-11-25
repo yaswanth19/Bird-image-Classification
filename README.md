@@ -4,7 +4,7 @@ This is a bird image classifcation project and in dataset we have around 100 dif
 
 
 ## Architecture
-We have used ResNet Architecture as backbone for our model and added some custom layers added on top.
+##### We have used ResNet Architecture as backbone for our model and added some custom layers on top.
 
 >### RESNET 50 Overview
 
@@ -19,7 +19,7 @@ The "identity block" is the standard block used in ResNets, and corresponds to t
 
 Next, the ResNet "convolutional block" is the other type of block. You can use this type of block when the input and output dimensions don't match up. The difference here is that there is a CONV2D layer in the shortcut path.
 
-## Sample Images from our dataset
+## Sample Images from dataset
 
 ![birds](https://user-images.githubusercontent.com/82788246/143440163-8d2d1f80-a3de-4ec9-a454-a5bd74bed067.png)
 
@@ -27,3 +27,5 @@ Next, the ResNet "convolutional block" is the other type of block. You can use t
 ```bash
 training accuracy: 0.9097 
 validation accuarcy:0.9071
+```
+>![2021-11-25](https://user-images.githubusercontent.com/82788246/143470256-4bb75d89-5d96-4f40-9859-d4aa33d15471.png)
