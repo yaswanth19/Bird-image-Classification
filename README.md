@@ -1,6 +1,6 @@
 # Bird classification
 
-This is a bird image classifcation project and in dataset we have around 100 different species images of birds and our task is to build a model using Deep Learning to classify birds into thier respective species.
+This is a bird image classifcation project and in dataset we have around 300 different species images of birds and our task is to build a model using Deep Learning to classify birds into thier respective species.
 
 
 ## Architecture
